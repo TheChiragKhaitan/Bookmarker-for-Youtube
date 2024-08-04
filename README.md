@@ -12,24 +12,24 @@ The Bookmarker for Youtube extension helps you save time when watching a YouTube
 ### Installation
 Currently the extension is not available on the Chrome Web Store. <br>
 To download and install it you have to follow these steps:
-1. Make sure <b>you have Google Chrome installed</b> on your computer. The extension <b>will not run</b> on other browsers. Download Chrome [HERE]()
+1. Make sure <b>you have Google Chrome installed</b> on your computer. The extension <b>will not run</b> on other browsers. Download Chrome [HERE](https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjwh-CVBhB8EiwAjFEPGWBaOaQ9LG5rsIbJgZUnCLCSpGf9A2d5NhNmskwjCH0lNp87Ifs0mBoCbsEQAvD_BwE&gclsrc=aw.ds)
 <br/>
-2. Download this repository as a .zip file and extract it inside a folder.<br/><img src='' style='height: 400px'>
+2. Download this repository as a .zip file and extract it inside a folder.<br/><img src='assets/1.png' style='height: 400px'>
 <br/>
-3. Open Google Chrome and click on the <i>Extensions Icon</i>. It is displayed as a small puzzle piece next to the search bar.<br/><img src='' style='height: 400px;'>
+3. Open Google Chrome and click on the <i>Extensions Icon</i>. It is displayed as a small puzzle piece next to the search bar.<br/><img src='assets/2.png' style='height: 400px;'>
 <br/>
-4. This will bring up a popup window, find the <i>Manage Extensions</i> icon and click on it.<br/><img src='' style='height: 400px;'><br/>
-5. This will open a new tab that will show you Chrome's Extensions Settings. Make sure you have the Developer Mode <i>enabled</i>.<br/><img src='' style='height: 400px;'><br/>
-6. On this tab click <i>Load unpacked</i>.<br/><img src='' style='height: 400px;'><br/>
+4. This will bring up a popup window, find the <i>Manage Extensions</i> icon and click on it.<br/><img src='assets/3.png' style='height: 400px;'><br/>
+5. This will open a new tab that will show you Chrome's Extensions Settings. Make sure you have the Developer Mode <i>enabled</i>.<br/><img src='assets/4.png' style='height: 400px;'><br/>
+6. On this tab click <i>Load unpacked</i>.<br/><img src='assets/5.png' style='height: 400px;'><br/>
 7. This will make you file browser popup. Select the folder where you extracted the extension and click <i>Select Folder</i>.<br/>
-8. You should now see the YT Bookmarker extension appear.<br/><img src='' style='height: 400px;'><br/>
+8. You should now see the Bookmarker for Youtube extension appear.<br/><img src='assets/6.png' style='height: 400px;'><br/>
 
 ### How to Use
 1. Navigate to YouTube and open a video.<br/>
-2. You should see the <i>Add Bookmark</i> Icon next to the left YouTube controls. Click on it to save the current timestamp.<br/><img src='' style='height: 400px'><br/>
-3. To view your saved bookmarks simply click on the extension icon next to Chrome's search bar.<br/><img src='' style='height: 400px'><br/>
+2. You should see the <i>Add Bookmark</i> Icon next to the left YouTube controls. Click on it to save the current timestamp.<br/><img src='assets/7.png' style='height: 400px'><br/>
+3. To view your saved bookmarks simply click on the extension icon next to Chrome's search bar.<br/><img src='assets/8.png' style='height: 400px'><br/>
 4. You can now view your Saved Bookmarks!<br/>
-5. Click on the <i>Play</i> icon, to instantly navigate to the selected bookmark, or click the <i>Delete</i> icon to delete a bookmark.<br/><img src='' style='height: 400px'><br/>
+5. Click on the <i>Play</i> icon, to instantly navigate to the selected bookmark, or click the <i>Delete</i> icon to delete a bookmark.<br/><img src='assets/9.png' style='height: 400px'><br/>
 
 
 ## The Creation Process
@@ -40,10 +40,9 @@ I love to watch podcasts but many times I was losing my time looking for somethi
 This is my first Chrome Extension. I hope you like it and find it useful. If you did, please give this repo a ⭐star. <br>
 If you found a bug please either contact me or open an issue on GitHub.
 
-
 ## Contributing
 
-Contributions are welcome! If you have any suggestions or find any issues, please feel free to open an issue or a pull request. 
+Show your ❤️ and support by giving a ⭐. Any suggestions are welcome! Take a look at the contributing guide.
 
 
 ## Contact
