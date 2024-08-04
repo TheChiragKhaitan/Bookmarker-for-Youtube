@@ -8,8 +8,7 @@ Maximize your YouTube viewing experience with YouTube Bookmarker & Resumer. Save
 ## About
 The Bookmarker for Youtube extension helps you save time when watching a YouTube Video. It makes every video on YouTube behave like a book where you can easily bookmark a specific spot. After bookmarking a spot you can easily navigate to this individual timestamp whenever you want. <br><br>
 
-## Installation and Use Guide
-### Installation
+## Installation
 Currently the extension is not available on the Chrome Web Store. <br>
 To download and install it you have to follow these steps:
 1. Make sure <b>you have Google Chrome installed</b> on your computer. The extension <b>will not run</b> on other browsers. Download Chrome [HERE](https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjwh-CVBhB8EiwAjFEPGWBaOaQ9LG5rsIbJgZUnCLCSpGf9A2d5NhNmskwjCH0lNp87Ifs0mBoCbsEQAvD_BwE&gclsrc=aw.ds)
@@ -24,7 +23,7 @@ To download and install it you have to follow these steps:
 7. This will make you file browser popup. Select the folder where you extracted the extension and click <i>Select Folder</i>.<br/>
 8. You should now see the Bookmarker for Youtube extension appear.<br/><img src='assets/6.png' style='height: 400px;'><br/>
 
-### How to Use
+## How to Use
 1. Navigate to YouTube and open a video.<br/>
 2. You should see the <i>Add Bookmark</i> Icon next to the left YouTube controls. Click on it to save the current timestamp.<br/><img src='assets/7.png' style='height: 400px'><br/>
 3. To view your saved bookmarks simply click on the extension icon next to Chrome's search bar.<br/><img src='assets/8.png' style='height: 400px'><br/>
